@@ -1,0 +1,12 @@
+.Logo{
+    background-color: rgb(7, 90, 215);
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-repeat:repeat-x;
+    
+}
+
+#logo-testa {
+    width: 150px;
+    height: 100px;
+}
