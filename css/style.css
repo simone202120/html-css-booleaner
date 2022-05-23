@@ -3,17 +3,22 @@
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-repeat:repeat-x;
+    height: 70px;
     
 }
 
 #logo-testa {
     width: 150px;
-    height: 100px;
+    height: 50px;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    padding-left: 5px;
 }
 
 #scritto{
     color: rgb(92, 94, 90);
     font-weight: 500;
+
 }
 #theBo{
     color: rgb(47, 158, 248);
@@ -36,8 +41,81 @@
 .FotoTim{
 font-weight: 500;
 font-size: 13px;
+margin-top: 20px;
+
 }
 
+#DescrizioneFoto{
+    margin-top: 0px;
+}
 .Lorem1{
- font-size: 26px;
+ font-size: 19px;
+ font-weight: 700;
+ margin-top: 50px;
+}
+.evidenzia{
+    background-color: yellow;
+}
+
+.Lista{
+    font-size: 19px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: -20px;
+    margin-bottom: 50px;
+    }
+
+table {
+    font-size: 18px;
+    font-weight: 700;
+    
+    
+}
+
+td{
+    width: 250px;
+}
+#colonna{
+    width: 800px;
+}
+#testa-tabella{
+    background-color: rgb(74, 152, 216);
+    color: white;
+}
+#riga-dispari {
+    background-color: rgb(0, 195, 255);
+}
+.foot{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(92, 94, 90);
+    margin-top: 70px;
+}
+
+.immagini1{
+    height: 300px;
+    width: 400px;
+    background-image: url(../img/graph.jpg);
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    background-size: contain;
+    margin-top: -20px;
+}
+
+.immagini2{
+    height: 300px;
+    width: 400px;
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    background-size: contain;
+
+    
+}
+
+.lorem2{
+    padding-top: 30px;
+    padding-left: 20px;    
 }
